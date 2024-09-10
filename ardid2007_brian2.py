@@ -6,7 +6,7 @@ References:
 Ardid, Wang, Compte 2007 Journal of Neuroscience
 doi: 10.1523/JNEUROSCI.1145-07.2007
 
-Edited for Brian2 and Python3 by Deying, 09/2024
+Edited for Brian2 and Python3 by Deying Song, 09/2024
 
 """
 from __future__ import division
